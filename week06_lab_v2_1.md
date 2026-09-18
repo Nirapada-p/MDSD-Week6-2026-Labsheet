@@ -855,9 +855,18 @@ class _HomePageState extends State<HomePage> {
 
 > ✅ **Checkpoint 7.3** รันแอปแล้วถ่ายภาพหน้าจอ Home ที่แสดงรายการสินค้าจริงจาก Fake Store API ผ่าน `ItemRepositoryApi` (ไม่ใช่ข้อมูล mock up) พร้อมภาพโครงสร้างไฟล์ที่แสดงให้เห็นว่ามีทั้ง `item_repository.dart` (Interface) และ `item_repository_api.dart` (Impl) แยกกันชัดเจน และทดสอบว่าปุ่ม "เพิ่มลงตะกร้า" กับการกดไปหน้า `CheckoutPage` จากสัปดาห์ที่ 5 ยังทำงานได้ปกติกับข้อมูล `Item` ชุดใหม่นี้ 
 
-```text
-บันทึกรูปที่นี่
-```
+
+### หน้าจอ Home ที่แสดงรายการสินค้าจริงจาก Fake Store API ผ่าน ItemRepositoryApi
+
+<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/5e8589df-88f9-4d9c-9592-425d79ce67b2" />
+
+### ทดสอบปุ่ม "บันทึกรายการโปรด" (feature เสริมที่เพิ่มเติมเอง)  กดแล้วนับจำนวนถูกต้อง
+
+<img width="1916" height="956" alt="image" src="https://github.com/user-attachments/assets/d439c00f-a2ca-4a89-8dae-3da8638c368f" />
+
+### เพิ่มสินค้าลงในตะกร้า
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/d5e6f552-f4b3-466e-8213-284b2294f648" />
+
 
 ---
 
