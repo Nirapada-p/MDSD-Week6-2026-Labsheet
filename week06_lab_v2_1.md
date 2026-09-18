@@ -867,6 +867,7 @@ class _HomePageState extends State<HomePage> {
 ### เพิ่มสินค้าลงในตะกร้า
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/d5e6f552-f4b3-466e-8213-284b2294f648" />
 
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/470f6dd7-1873-4f5b-b621-5d2a2004b384" />
 
 ---
 
