@@ -90,8 +90,8 @@ https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=YOUR_API_KEY&uni
 เปลี่ยนชื่อเมืองเป็นชื่อที่ไม่มีอยู่จริง ก่อนกด Send คาดการณ์ว่า Status Code มันจะขึ้น error 404  และ Status Code จริงที่ได้คือ 404 Not Found เกือบตรงกับที่คาดไว้ผิดแค่คำว่า error
 อยู่ในช่วง 4xx (Client Error) ซึ่งเป็นข้อผิดพลาดจากฝั่งผู้ใช้ (Client) เกิดจากการระบุชื่อเมืองไม่ถูกต้อง ทำให้เซิร์ฟเวอร์หาข้อมูลไม่พบ
 ```
-```text
-บันทึกรูปและคำตอบที่นี่
+<img width="1085" height="778" alt="image" src="https://github.com/user-attachments/assets/77354298-d320-444d-b7a4-aa9253488031" />
+
 ```
 ---
 
