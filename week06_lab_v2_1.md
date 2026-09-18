@@ -489,9 +489,8 @@ GET https://fakestoreapi.com/products
 ```
 
 > ✅ **Checkpoint 4.2** ถ่ายภาพหน้าจอ Debug Console ที่แสดงผลลัพธ์จริงจากการเรียก `fetchAiProducts()` (เช่น รายการสินค้าที่ print ออกมา) 
-```text
-บันทึกรูปที่นี่
-```
+<img width="865" height="813" alt="image" src="https://github.com/user-attachments/assets/db25c84d-e209-4fb9-8a8f-15fd34032b5c" />
+
 
 ---
 
