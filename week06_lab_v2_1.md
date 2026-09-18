@@ -92,7 +92,6 @@ https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=YOUR_API_KEY&uni
 ```
 <img width="1085" height="778" alt="image" src="https://github.com/user-attachments/assets/77354298-d320-444d-b7a4-aa9253488031" />
 
-```
 ---
 
 ## ส่วนที่ 2: สร้าง Model Class และเรียก API ด้วย http Package
