@@ -79,7 +79,6 @@ https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=YOUR_API_KEY&uni
 
 <img width="1083" height="795" alt="image" src="https://github.com/user-attachments/assets/cd13da54-4cd5-4049-a39b-683abb055ad2" />
 
-```
 
 ### ขั้นตอนที่ 1.2 — 🧠 คิดเอง/ออกแบบเอง
 
